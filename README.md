@@ -12,7 +12,7 @@ Each project demonstrates end-to-end ML workflow: **EDA, Feature Engineering, Mo
 - **Dataset:** 2000 samples, 21 features (`Mobile_Price_Dataset.csv`)  
 - **Algorithm Used:** XGBoost Classifier  
 - **Results:** Achieved **92.4% accuracy** with strong generalization.  
-- **Report:** [Mobile_Price_Prediction.pdf](reports/Mobile_Price_Prediction.pdf)
+- **Report:** [Mobile_Price_Prediction.pdf](Report/Mobile_Price_Prediction.pdf)
 
 ---
 
@@ -21,7 +21,7 @@ Each project demonstrates end-to-end ML workflow: **EDA, Feature Engineering, Mo
 - **Dataset:** ~890,000 rows, 48 features (`dataset_med.csv`)  
 - **Algorithms:** Logistic Regression, XGBoost  
 - **Results:** Logistic Regression and XGBoost achieved ~78% accuracy, but recall for positive cases needs improvement.  
-- **Report:** [Lung_Cancer_Detection.pdf](reports/Lung_Cancer_Detection.pdf)
+- **Report:** [Lung_Cancer_Detection.pdf](Report/Lung_Cancer_Detection.pdf)
 
 ---
 
@@ -30,7 +30,7 @@ Each project demonstrates end-to-end ML workflow: **EDA, Feature Engineering, Mo
 - **Dataset:** 15 folders of 224x224 images (Bear, Bird, Cat, Cow, Deer, Dog, Dolphin, Elephant, Giraffe, Horse, Kangaroo, Lion, Panda, Tiger, Zebra).  
 - **Approach:** Transfer Learning using **EfficientNetB0** with fine-tuning on the last 20 layers.  
 - **Results:** Achieved strong training & validation accuracy with robust augmentation techniques.  
-- **Report:** [Animal_Classification.pdf](reports/Animal_Classification.pdf)
+- **Report:** [Animal_Classification.pdf](Report/Animal_Classification.pdf)
 
 ---
 
