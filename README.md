@@ -34,4 +34,16 @@ Each project demonstrates end-to-end ML workflow: **EDA, Feature Engineering, Mo
 
 ---
 
-## 📑 Repository Structure
+## 📊 Internship Learnings
+- Applied **EDA, Feature Engineering, and Model Evaluation**.
+- Implemented **XGBoost, Logistic Regression, and CNNs (EfficientNet)**.
+- Gained experience with **large datasets, imbalance handling, and augmentation**.
+- Improved model interpretability via feature importance and confusion matrices.
+
+---
+
+## 📬 Contact
+**Aman Varma**  
+📧 amanvarma0486@gmail.com  
+
+
